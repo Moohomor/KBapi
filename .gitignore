@@ -1,1 +1,4 @@
 .idea
+/venv/pyvenv.cfg
+/api/db/
+/api/db/
